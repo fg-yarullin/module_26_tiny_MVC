@@ -11,11 +11,9 @@
     </tr>
 </thead>
     <tbody>
-        <?php 
-            foreach($data as $row) {
-                echo "<tr><td>{$row['Year']}</td><td>{$row['Site']}</td><td>{$row['Description']}</td></tr>";
-            }
-        ?>
+        <?php foreach($data as $row): ?>
+            <tr><td><?=$row['Year']?></td><td><?=$row['Site']?></td><td><?=$row['Description']?></td></tr>
+        <?php endforeach ?>
     </tbody>
 </table>
 </p>

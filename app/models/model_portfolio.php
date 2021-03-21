@@ -59,24 +59,24 @@ class Model_Portfolio extends Model {
                 Enim, odit! Tempore quae, nesciunt impedit optio modi odit 
                 in sapiente eveniet natus explicabo, nulla libero fugit iusto 
                 ipsa nam molestiae asperiores necessitatibus. Laborum at beatae 
-                placeat dolore voluptate nihil?
-                Fugiat tenetur dignissimos dolorum quisquam aspernatur 
+                placeat dolore voluptate nihil?'
+            ),
+
+            array(
+                "Year" => '2018',
+                "Site" => 'http:/Fugiat.ru',
+                "Description" => 'Fugiat tenetur dignissimos dolorum quisquam aspernatur 
                 quae optio illo quos, sint id maxime, provident aperiam nisi ea 
                 blanditiis beatae perferendis laborum ex placeat.'
             ),
 
             array(
                 "Year" => '2018',
-                "Site" => 'http://Suscipit.ru',
-                "Description" => 'Suscipit odit numquam minima voluptate ipsam, 
-                adipisci repellat? Sit, impedit.'
-            ),
-
-            array(
-                "Year" => '2018',
-                "Site" => 'http://Suscipit.ru',
-                "Description" => 'Suscipit odit numquam minima voluptate ipsam, 
-                adipisci repellat? Sit, impedit.'
+                "Site" => 'http://Sed.ru',
+                "Description" => 'Sed ut perspiciatis unde omnis iste natus error sit 
+                voluptatem accusantium doloremque laudantium, totam rem aperiam, 
+                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae 
+                vitae dicta sunt explicabo'
             )
         );
     }
